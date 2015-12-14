@@ -31,4 +31,5 @@ function palindromeFactorial(someArray) {
 }
 palindromeFactorial(['mom', 'dad', 'race car', 'florence healthcare', 'noon', 'sunny']);
 // We export so that we can run unit tests.
+
 exports.palindromeFactorial = palindromeFactorial;
